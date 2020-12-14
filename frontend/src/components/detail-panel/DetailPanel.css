@@ -1,0 +1,31 @@
+.detail-container {
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%
+}
+
+.detail-subtitle {
+    color: #024551;
+    padding-top: 10px;
+    font-weight: 500;
+}
+
+.book {
+    margin-top: 10px;
+    background-color: #D23D2D;
+    color: whitesmoke;
+    border: none;
+}
+
+.book:hover {
+    background-color: #830C00;
+}
+
+.msg {
+    margin-top: 100px;
+}
+
+.ranking {
+    font-size: 30px;
+}

@@ -1,0 +1,16 @@
+.list-item-title {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.list-item {
+    margin-bottom: 2px;
+    border-bottom: solid 1px #36808E;
+    color: #D23D2D;
+}
+
+.list-item:hover {
+    background-color: #830C00;
+    color: whitesmoke;
+
+}

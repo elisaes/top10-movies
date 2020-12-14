@@ -1,0 +1,12 @@
+.header {
+    padding-top: 15px;
+    color: #D23D2D;
+    background-color: white;
+}
+
+.header>hr {
+    width: 60%;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
